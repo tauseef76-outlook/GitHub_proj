@@ -1,0 +1,58 @@
+/*===================body======================*/
+
+body{
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-bottom: 30px;
+  padding-top: 20px;
+  text-align: left;;
+  background-color: #281b8af5;
+  color: black;
+  border-radius: 10px;
+  font-family: Arial;
+}
+
+/*===================Section-title======================*/
+#section-title{
+  text-align: left;
+  font-size: 24px;
+  text-decoration: underline;
+}
+
+/*===================images======================*/
+
+img{
+  height:20%;
+  width: 20%;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*===================header======================*/
+.section-grid{
+  background-color: #FFFF;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  width: 0 auto;
+  padding: 10px;
+
+}
+
+/*===================about======================*/
+.about{
+  text-align: left;
+}
+
+/*============= others ==================*/
+#name{
+  text-align: center;
+}
+
+/*=================footer====================*/
+#footer{
+  color: white;
+  font-style: italic;
+}
