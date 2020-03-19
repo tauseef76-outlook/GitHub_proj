@@ -1,0 +1,63 @@
+body{
+  background: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: rgba(255,255,255,0.5);
+  background-blend-mode: lighten;
+}
+
+@media (min-width: 480px) {
+  form {
+    padding: 2.5rem;
+  }
+}
+
+#header{
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}
+
+#header h1{
+  font-size: 35px;
+  line-height: 5px;
+}
+
+#header p{
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.myForm{
+  padding: 15px;
+  overflow: auto;
+  margin: 0 12% 5% 12%;
+  background-color: white;
+  text-align: left;
+}
+
+.form-group{
+  padding:5px;
+  margin: 0 auto;
+}
+
+.form-control {
+  display: block;
+  width: 80%;
+  height: 25px;
+  padding:10px;
+  color: #495057;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 10px;
+  margin:5px;
+}
+
+.form-group button:hover{
+  background-color: green;
+}
+
+footer{
+  text-align: center;
+}

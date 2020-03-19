@@ -1,0 +1,38 @@
+/*==================================================*/
+body{
+  background-color: #D8D8D8;
+  text-align: center;
+  padding:10px;
+  margin:20%;
+  border: 1px solid black;
+}
+
+.header h3{
+  font-size: 16px;
+}
+
+.about{
+  margin:10px;
+  text-align: left;
+  padding: 10px;
+}
+
+img{
+  border-radius: 50%;
+}
+
+.lifeline_div{
+  text-align: left;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.wiki_link{
+  font-style: italic;
+}
+.footer{
+  text-align: left;
+  font-weight: lighter;
+}
